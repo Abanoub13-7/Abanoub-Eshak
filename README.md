@@ -18,13 +18,13 @@
 
 ```dart
 class AbanoubEshak {
-  String role = "Flutter Developer & Instructor";
+  String role = "Frontend Developer ";
   String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
   List<String> skills = [
-    "Flutter UI/UX",
+    "html , css",
     "Dart Animations",
-    "Python, Java, C++",
+    "Java Script",
+    "react",
     "GitHub & Copilot",
     "Arabic Content Creation",
     "Simplify Code"
