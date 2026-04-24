@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Abanoub Eshak 👋</h1>
-<h3 align="center">frontend Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+<h1 align="center">Hi, I'm  Abanoub Eshak 👋</h1>
+<h3 align="center">frontend Developer 🧠 </h3>
 
 <p align="center">
   <a href="https://www.instagram.com/abanoub_eshak13?igsh=MW1tazNxbWRmZHRxdw=="><img src="https://img.shields.io/badge/@Abanoub.Eshak13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abanoub-eshak-5aa268344?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/abanoub-eshak-5aa268344?utm_source=share_via&utm_content=profile&utm_medium=member_android" >
     <img src="https://img.shields.io/badge/Abanoub%20Eshak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> -->
   <a href="https://www.facebook.com/share/18Waj2ARN9/"><img src="https://img.shields.io/badge/Abanoub-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
